@@ -26,7 +26,7 @@
             android:layout_toEndOf="@id/hero_image"
             android:layout_alignTop="@id/hero_image"
             android:layout_marginStart="16dp"
-            android:hint="Superhero name"/>
+            android:hint="Nombre del super heroe"/>
 
         <EditText
             android:id="@+id/alter_edo_edit"
